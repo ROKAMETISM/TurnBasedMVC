@@ -7,3 +7,6 @@ Turn-based system with MVC pattern
 
 Gamestate and History, GameStateContext 
 https://www.reddit.com/r/xcom2mods/wiki/index/game_states/
+
+XComScript
+https://www.reddit.com/r/xcom2mods/wiki/script/
