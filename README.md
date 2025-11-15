@@ -1,5 +1,7 @@
 # turn-based-mvc-1
-Turn-based system with MVC pattern
+Turn-based system with MVC pattern?
+
+MVC is too difficult?
 
 
 
