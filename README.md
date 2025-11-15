@@ -3,6 +3,10 @@ Turn-based system with MVC pattern?
 
 MVC is too difficult?
 
+Turn based JRPG combat
+
+Stat + Ability
+
 
 
 ## Todo
