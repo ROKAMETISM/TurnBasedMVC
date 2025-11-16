@@ -25,4 +25,23 @@ Fog of War and LoS? NO!
 
 <Tactical Layer Gameplay>
 
-Unit : Inventory(items), Abilities(Shoot/Reload/Hunker/Move/UseItem), AP(ActionPoints, 2 per turn)
+<Unit Definition>
+//Inventory(items)
+Abilities(Shoot/Reload/Hunker/Move/UseItem)
+AP(ActionPoints, 2 per turn)
+Stats : HP(base : 4), Aim(base : 65), Defense(base : 0), Armor(base : 0)
+
+<Ability Definition>
+APCost
+bEndTurn
+script AbilityEffect
+Cost : AP, Ammo, Charges
+Requirement : minAP, minAmmo, etc.
+Cooldown
+
+<Item Definition>
+name
+charges
+grant ability
+
+<Map=Level=Grid Definition>
