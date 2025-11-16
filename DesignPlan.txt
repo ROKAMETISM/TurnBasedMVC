@@ -1,0 +1,28 @@
+2D Flat grid with no cover
+Player take turn, then Enemy (or other faction) take turn
+2AP, movement 1ap, etc
+Player Units : Weapon, Armor and Items
+Enemy Units : Alien with abilities.
+Before each tactical mission, player composes the team.
+Team size : 4 ~ 
+Strategy Layer <-> Tactical Layer
+Weapon : AR / SG / SR / MG / Melee
+AR : 1AP, 0~65%, mid-far to close range
+SG : 1AP, 0~100%, close range
+SR : 2AP, 80~20%, far range
+MG : 1AP, 70%, mid to close range, can shoot twice or move and shoot
+Melee : 1AP, 90%, 1 tile range
+Reload = 1AP, no turn end
+Hunker down = 1AP, defense + 30%
+Armor : fast but less defense / More defensive but slow / extra special effect armors
+Item : Grenade, Medkit, Flashbang
+Control AI with player for testing?
+Unit inventory : Main weapon, Armor, item
+Move : Moveto (position on grid)
+	get path, get length, decide if destination is reachable / how much AP costs
+Simplified Movement : 1 tile = 1 AP
+Fog of War and LoS? NO!
+
+<Tactical Layer Gameplay>
+
+Unit : Inventory(items), Abilities(Shoot/Reload/Hunker/Move/UseItem), AP(ActionPoints, 2 per turn)

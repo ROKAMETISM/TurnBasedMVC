@@ -7,7 +7,11 @@ Turn based JRPG combat
 
 Stat + Ability
 
+2D Flat grid with no cover
 
+Player take turn, then Enemy (or other faction) take turn
+
+2AP, movement 1ap, etc
 
 ## Todo
 
