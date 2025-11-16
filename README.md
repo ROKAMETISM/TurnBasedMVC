@@ -23,6 +23,11 @@ https://www.reddit.com/r/xcom2mods/wiki/index/game_states/
 XComScript
 https://www.reddit.com/r/xcom2mods/wiki/script/
 
+ Kenney Assets
+
+GDQ
+https://www.gdquest.com/tutorial/godot/2d/tactical-rpg-movement/
+
 ## XCOM Design Structure Analysis
 
 XComGameState : GameState

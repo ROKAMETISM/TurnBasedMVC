@@ -45,3 +45,9 @@ charges
 grant ability
 
 <Map=Level=Grid Definition>
+Grid holds unit data
+dictionary : unit -> position
+if i have dictionary, do i need grid?
+
+<Movesystem>
+Move only one tile per AP. 4 directions.
