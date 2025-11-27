@@ -18,15 +18,22 @@ Player take turn, then Enemy (or other faction) take turn
 ## References
 
 Gamestate and History, GameStateContext 
+
 https://www.reddit.com/r/xcom2mods/wiki/index/game_states/
 
 XComScript
+
 https://www.reddit.com/r/xcom2mods/wiki/script/
 
  Kenney Assets
 
 GDQ
+
 https://www.gdquest.com/tutorial/godot/2d/tactical-rpg-movement/
+
+Toptal MVC article
+
+https://www.toptal.com/unity/unity-with-mvc-how-to-level-up-your-game-development
 
 ## XCOM Design Structure Analysis
 
