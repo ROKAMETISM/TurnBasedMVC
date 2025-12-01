@@ -9,3 +9,4 @@ var is_my_turn := false :
 		else:
 			EventHandler.turn_ended.emit(self)
 		is_my_turn = value
+var pawn : Sprite2D
