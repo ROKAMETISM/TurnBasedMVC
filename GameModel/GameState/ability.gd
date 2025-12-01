@@ -6,3 +6,6 @@ enum Type {
 var type : Type
 var offence_power : int
 var accuracy : int
+
+func effect()->void:
+	pass
