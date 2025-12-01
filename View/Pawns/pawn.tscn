@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://bvm01diaq4gw8"]
+
+[ext_resource type="Texture2D" uid="uid://bnhft03mcob6l" path="res://Assets/Cute_Fantasy_Free/Animals/Chicken/Chicken.png" id="1_yigjf"]
+
+[node name="Pawn" type="Sprite2D"]
+texture = ExtResource("1_yigjf")
+region_enabled = true
+region_rect = Rect2(0, 0, 32, 32)
